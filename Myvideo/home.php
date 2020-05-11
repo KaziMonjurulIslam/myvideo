@@ -127,7 +127,7 @@ window.addEventListener("load", function(){
 
 				<div class="container">
 					<video id="myvideo">
-            <source src="http://localhost/www.MyVideo.com/videos/<?php echo $name;?>" type="video/mp4" autoplay="true">
+            <source src="http://localhost/MyVideo/videos/<?php echo $name;?>" type="video/mp4" autoplay="true">
 				</video>
 				 
 				<button class="left" style="background-color:#171818;text-align:center;float:left;margin:5px; border-radius: 1.0em;"title="Click for Previwes Video"><a style="color:white;" href="show?id=<?php echo $prvid;?>#<?php echo $prvid;?>">Previwes Video</a></button>
