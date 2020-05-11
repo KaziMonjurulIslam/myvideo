@@ -1,0 +1,89 @@
+		@media (min-width: 1200px) {
+		.container{
+            width: 46.85%;
+            margin: 10px;
+			position:fixed;
+        }
+		.sidebarright{
+		float:right;
+		width:520px;
+		margin:5px;
+		background-color:#1a1a1a;
+		}
+		.sidebarright2{
+		float:right;
+		width:520px;
+		margin:5px;
+		background-color:#1a1a1a;
+		}
+		video{
+		
+		width: 100%;
+		height:100%;
+		}
+		.othervideo{
+		width:500px;
+		height:70px;
+		border-radius: 1.0em;
+		color:#e3e2e2;
+		text-align:center;
+		background-color:#fd002a;
+		
+		}
+		.othervideo:hover{
+		width:500px;
+		color:#000000;
+		text-align:center;
+		background-color:#fd5c64;
+		}
+		.othervideo2{
+		width:500px;
+		height:70px;
+		border-radius: 1.0em;
+		color:#e3e2e2;
+		text-align:center;
+		background-color:#fd002a;
+		
+		}
+		.othervideo2:hover{
+		width:500px;
+		color:#000000;
+		text-align:center;
+		background-color:#fd5c64;
+		}
+		}
+		
+				@media only screen and (mix-width: 1100px) {
+		.containe{
+            width: 500px;
+            margin: 10px;
+			position:fixed;
+        }
+		.sidebarright{
+		float:right;
+		width:500px;
+		margin:5px;
+		background-color:#1a1a1a;
+		}
+	
+		video{
+		width: 500px;
+		height:auto;
+		}
+		.othervideo{
+		width:;
+		height:70px;
+		border-radius: 1.0em;
+		color:#e3e2e2;
+		text-align:center;
+		background-color:#fd002a;
+		
+		}
+		.othervideo:hover{
+		width:;
+		color:#000000;
+		text-align:center;
+		background-color:#fd5c64;
+		}
+		
+		}
